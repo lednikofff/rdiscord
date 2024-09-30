@@ -1,0 +1,12 @@
+{
+  "name": "discord-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^25.0.0",
+    "electron-single-instance": "^0.0.2"
+  }
+}
